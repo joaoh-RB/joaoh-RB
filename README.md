@@ -22,10 +22,13 @@
 
 ### Preferred technologies
 <div style="display: inline-block">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" style="border-radius: 3px" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 3px" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="border-radius: 3px" />
+    <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=HTML5&logoColor=E34F26" alt="HTML" style="border-radius: 3px" />
+    <img src="https://img.shields.io/badge/CSS-e9e9e9?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" style="border-radius: 3px" />
+    <img src="https://img.shields.io/badge/BOOTSRAP-7952B3?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="Bootstrap" style="border-radius: 3px" />
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" style="border-radius: 3px" />
+    <img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="NodeJS" style="border-radius: 3px" />
+    
 </div>
 <br>
 
-#### I'm currently honing skills in NextJS and in parallel in backend! 💻
+#### I'm currently improving skills for frontend! 💻
