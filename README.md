@@ -11,7 +11,6 @@
  
   ![JH GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoh-RB&show_icons=true&bg_color=0d1117&text_color=888&hide_border=true)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh-RB&layout=compact)](https://github.com/joaoh-RB/github-readme-stats)
  
  </div>
 
