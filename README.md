@@ -30,4 +30,6 @@
 </div>
 <br>
 
-#### I'm currently improving skills for frontend! 💻
+#### Seguindo na área de desenvolvimento desde 2020. Atualmente utilizo Javascript, HTML, CSS, DevExpress, JQuery, React, Bootstrap, PHP e C#. 
+
+Tenho participação em soluções de automação de processos usando as tecnologias BPMN e ECM. Com clientes de grande participação no mercado atual. 💻
