@@ -7,14 +7,6 @@
 
  ###
  
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh-RB&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoh-RB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
-
 
 ##
 
@@ -24,7 +16,10 @@
     <img src="https://img.shields.io/badge/CSS-e9e9e9?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" style="border-radius: 3px" />
     <img src="https://img.shields.io/badge/BOOTSRAP-7952B3?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="Bootstrap" style="border-radius: 3px" />
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" style="border-radius: 3px" />
-    <img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="NodeJS" style="border-radius: 3px" />
+    <img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery" style="border-radius: 3px" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=00D9FE" alt="REACT" style="border-radius: 3px" />
+    <img src="https://img.shields.io/badge/PHP-8993C1?style=for-the-badge&logo=PHP&logoColor=black" alt="PHP" style="border-radius: 3px" />
+
     
 </div>
 <br>
